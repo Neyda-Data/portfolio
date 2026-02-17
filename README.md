@@ -12,5 +12,5 @@ This project includes the cleaned dataset, three visuals, and the full case stud
 
 - [Bellabeat Case Study Brief (PDF)](docs/Bellabeat%20Case%20Study%20Brief.pdf)  
   *(If the PDF does not preview in GitHub, click “Download” in the top-right corner.)*
-- [Visuals (visuals/)
+- [Visuals](visuals/)
 - [Cleaned Data](data/)
