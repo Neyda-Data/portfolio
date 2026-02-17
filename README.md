@@ -1,6 +1,6 @@
 # Neyda Gonzalez Flores – Data Analytics Portfolio
 
-I recently completed the UC San Diego Business Intelligence certificate and the Google Data Analytics Certificate. 
+I recently completed the UC San Diego Business Intelligence Certificate and the Google Data Analytics Certificate. 
 This portfolio showcases the school-based projects I completed while learning data cleaning, SQL, Tableau visualization, and analytical storytelling.
 
 ## Projects
