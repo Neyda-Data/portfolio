@@ -22,13 +22,13 @@ This project showcases a full end‑to‑end data engineering workflow using the
 ## SQL Scripts
 - [Full Project Script](sql/full_script.sql)
 
-## AnnualRevenue_v Output
+## Annual Revenue View 
 ![Annual Revenue Output](screenshots/AnnualRevenue_v.png)
-## CourseRevenue_v Output
+## Course Revenue View 
 ![Course Revenue Output](screenshots/CourseRevenue_v.png)
-## InsertPerson_p Output
+## Insert Person Stored Procedure 
 ![Insert Person Output](screenshots/InsertPerson_p.png)
-## StudentHistory_p Output
+## Student History Stored Procedure
 ![Student History Output](screenshots/StudentHistory_p.png)
 
 ## ERD
