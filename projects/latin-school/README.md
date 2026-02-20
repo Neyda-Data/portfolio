@@ -1,7 +1,7 @@
 # Latin School SQL Project (UCSD)
 
 ## Overview
-This project analyzes student, course, faculty, and enrollment data for the Latin School database. It includes data cleaning, staging, importing into SQL Server, building an ERD, and writing SQL queries to explore the dataset.
+This project showcases a full end‑to‑end data engineering workflow using the Latin School dataset. The work began with extensive data cleaning and normalization in Excel, followed by creating a brand‑new SQL Server database from scratch. All tables were designed with appropriate keys and constraints, lookup tables were built first, and the cleaned data was imported using SQL Server’s Import Wizard. The project includes staging, schema design, ERD creation, and writing SQL queries, views, functions, and stored procedures to explore and validate the final relational model.
 
 ## Tools Used
 - SQL Server
