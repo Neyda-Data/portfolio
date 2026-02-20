@@ -23,3 +23,4 @@ This project showcases a full end‑to‑end data engineering workflow using the
 - [Full Project Script](sql/full_script.sql)
 
 ## ERD
+![Latin School ERD](erd/latin_school_ERD.png)
