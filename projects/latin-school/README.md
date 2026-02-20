@@ -26,6 +26,8 @@ This project showcases a full end‑to‑end data engineering workflow using the
 ![Annual Revenue Output](screenshots/AnnualRevenue_v.png)
 ## CourseRevenue_v Output
 ![Course Revenue Output](screenshots/CourseRevenue_v.png)
+## StudentHistory_p Output
+![Student History Output](screenshots/StudentHistory_p.png)
 
 ## ERD
 ![Latin School ERD](erd/latin_school_ERD.png)
