@@ -21,8 +21,12 @@ This project showcases a full end‑to‑end data engineering workflow using the
 
 ## SQL Scripts
 - [Full Project Script](sql/full_script.sql)
+- [View Script: AnnualRevenue_v.sql](sql/AnnualRevenue_v.sql)
+- [View Script: CourseRevenue_v.sql](sql/AnnualRevenue_v.sql)
+- [View Script: InsertPerson_p.sql](sql/AnnualRevenue_v.sql)
+- [View Script: StudentHistory_p.sql](sql/AnnualRevenue_v.sql)
 
-## Annual Revenue View Output [Script](sql/AnnualRevenue_v.sql)
+## Annual Revenue View Output
 ![Annual Revenue Output](screenshots/AnnualRevenue_v.png)
 ## Course Revenue View Output
 ![Course Revenue Output](screenshots/CourseRevenue_v.png)
