@@ -14,3 +14,5 @@ This project includes the cleaned dataset, three visuals, and the full case stud
   *(If the PDF does not preview in GitHub, click “Download” in the top-right corner.)*
 - [Visuals](visuals/)
 - [Cleaned Data](data/)
+
+- [Latin School SQL Project](projects/latin-school/README.md)
