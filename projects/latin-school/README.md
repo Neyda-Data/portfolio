@@ -28,12 +28,16 @@ This project showcases a full end‑to‑end data engineering workflow using the
 
 ## Annual Revenue View Output
 ![Annual Revenue Output](screenshots/AnnualRevenue_v.png)
+
 ## Course Revenue View Output
 ![Course Revenue Output](screenshots/CourseRevenue_v.png)
+
 ## Insert Person Stored Procedure Output 
 ![Insert Person Output](screenshots/InsertPerson_p.png)
+
 ## Student History Stored Procedure Output
 ![Student History Output](screenshots/StudentHistory_p.png)
+
 
 ## ERD
 ![Latin School ERD](erd/latin_school_ERD.png)
