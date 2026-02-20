@@ -22,8 +22,5 @@ This project showcases a full end‑to‑end data engineering workflow using the
 ## SQL Scripts
 - [Full Project Script](sql/full_script.sql)
 
-## AnnualRevenue_v Output
-![Annual Revenue Output](screenshots/AnnualRevenue_v.png)
-
 ## ERD
 ![Latin School ERD](erd/latin_school_ERD.png)
