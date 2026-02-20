@@ -18,3 +18,6 @@ This project showcases a full end‑to‑end data engineering workflow using the
 - ERD diagram
 - SQL scripts
 - Final project summary
+
+## SQL Scripts
+- [Full Project Script](sql/full_script.sql)
