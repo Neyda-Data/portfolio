@@ -15,8 +15,8 @@ This project walks through a full end‑to‑end data engineering workflow using
 - **docs/** – project summary and supporting documents
 
 ## Key Deliverables
-- ERD diagram
 - SQL scripts
+- ERD diagram
 - Final project summary
 
 ## SQL Scripts
