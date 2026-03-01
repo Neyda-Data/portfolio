@@ -3,6 +3,8 @@
 I recently completed the UC San Diego Business Intelligence Certificate and the Google Data Analytics Certificate. 
 This portfolio showcases the school-based projects I completed while learning advanced Excel, SQL, Tableau visualization, and analytical storytelling.
 
+This portfolio currently includes two projects: the Bellabeat Case Study and the Latin School SQL Project.
+
 ## Projects
 
 ### Bellabeat Case Study (Google Data Analytics)
