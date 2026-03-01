@@ -17,4 +17,8 @@ This project includes the cleaned dataset, three visuals, and the full case stud
 - [Visuals](visuals/)
 - [Cleaned Data](data/)
 
+### Latin School SQL Project (UCSD Business Intelligence)
+
+A full SQL Server database project built from the ground up, including data cleaning, table design, staging imports, views, stored procedures, and an ERD.
+
 - [Latin School SQL Project](projects/latin-school/README.md)
