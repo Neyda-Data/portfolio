@@ -8,6 +8,7 @@ This project walks through a full end‑to‑end data engineering workflow using
 - SQL Server
 - SQL Server Management Studio (SSMS)
 - SSMS Database Diagram Tool (for ERD)
+- SQL Server Import Wizard
 
 ## Folder Structure
 - **sql/** – SQL scripts for table creation, staging, queries, and stored procedures
