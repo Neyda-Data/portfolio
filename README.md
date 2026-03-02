@@ -18,4 +18,4 @@ This project includes the cleaned dataset, three Tableau visuals, and the full c
 
 A full SQL Server database project built from the ground up, including data cleaning, table design, staging imports, views, stored procedures, and an ERD.
 
-[Latin School SQL Project](projects/latin-school/README.md)
+[Latin School SQL Project](projects/latin_school_SQL/README.md)
