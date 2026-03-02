@@ -11,7 +11,7 @@ This project walks through a full end‑to‑end data engineering workflow using
 - SQL Server Import Wizard
 
 ## Folder Structure
-- **sql/** – SQL scripts for table creation, staging, queries, and stored procedures
+- **SQL_scripts/** – SQL scripts for table creation, staging, queries, and stored procedures
 - **erd/** – ERD diagram(s)
 - **docs/** – project summary
 - **screenshots/** – output images from views and stored procedures
@@ -25,15 +25,15 @@ This project walks through a full end‑to‑end data engineering workflow using
 ## SQL Scripts
 
 ### Full Script
-- [Full Project Script](sql/full_script.sql)
+- [Full Project Script](SQL_scripts/full_script.sql)
 
 ### Views
-- [Annual Revenue View](sql/AnnualRevenue_v.sql)
-- [Course Revenue View](sql/CourseRevenue_v.sql)
+- [Annual Revenue View](SQL_scripts/AnnualRevenue_v.sql)
+- [Course Revenue View](SQL_scripts/CourseRevenue_v.sql)
 
 ### Stored Procedures
-- [Insert Person Stored Procedure](sql/InsertPerson_p.sql)
-- [Student History Stored Procedure](sql/StudentHistory_p.sql)
+- [Insert Person Stored Procedure](SQL_scripts/InsertPerson_p.sql)
+- [Student History Stored Procedure](SQL_scripts/StudentHistory_p.sql)
 
 ### Outputs
 #### Annual Revenue View Output
