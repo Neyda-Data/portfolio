@@ -10,7 +10,7 @@ This portfolio currently includes two projects: the Bellabeat Case Study and the
 ### Bellabeat Case Study (Google Data Analytics)
 
 A three-part analysis exploring daily activity, intensity levels, and energy expenditure using Fitbit-style data.  
-This project includes the cleaned dataset, three visuals, and the full case study submitted for the Google Data Analytics Certificate.
+This project includes the cleaned dataset, three Tableau visuals, and the full case study submitted for the Google Data Analytics Certificate.
 
 [Bellabeat Project Folder](bellabeat/README.md)
 
