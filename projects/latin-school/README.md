@@ -1,7 +1,7 @@
 # Latin School SQL Project (UCSD)
 
 ## Overview
-This project walks through a full end‑to‑end data engineering workflow using the Latin School dataset. I started by cleaning and normalizing the raw Excel files, then built staging tables to validate the data before creating the final SQL Server database from scratch. After importing the cleaned data through SQL Server’s Import Wizard, I wrote SQL queries, views, functions, and stored procedures to analyze enrollment trends, revenue, course offerings, and which faculty teach which sections. The project includes staging, schema design, an ERD, and documented outputs that show how the final relational model works in practice.
+This project walks through a full end‑to‑end data engineering workflow using the Latin School dataset. I started by cleaning and normalizing the raw Excel files, then built staging tables to validate the data before creating the final SQL Server database from scratch. After importing the cleaned data through SQL Server’s Import Wizard, I wrote SQL queries, views, functions, and stored procedures to analyze enrollment trends, revenue, course offerings, and which instructors teach which sections. The project includes staging, schema design, an ERD, and documented outputs that show how the final relational model works in practice.
 
 ## Tools Used
 - Excel (initial cleanup)
