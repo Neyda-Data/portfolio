@@ -12,13 +12,10 @@ This portfolio currently includes two projects: the Bellabeat Case Study and the
 A three-part analysis exploring daily activity, intensity levels, and energy expenditure using Fitbit-style data.  
 This project includes the cleaned dataset, three visuals, and the full case study submitted for the Google Data Analytics Certificate.
 
-- [Bellabeat Case Study Brief (PDF)](docs/Bellabeat%20Case%20Study%20Brief.pdf)  
-  *(If the PDF does not preview in GitHub, click “Download” in the top-right corner.)*
-- [Visuals](visuals/)
-- [Cleaned Data](data/)
+[Bellabeat Project Folder](bellabeat/README.md)
 
 ### Latin School SQL Project (UC San Diego Business Intelligence)
 
 A full SQL Server database project built from the ground up, including data cleaning, table design, staging imports, views, stored procedures, and an ERD.
 
-- [Latin School SQL Project](projects/latin-school/README.md)
+[Latin School SQL Project](projects/latin-school/README.md)
