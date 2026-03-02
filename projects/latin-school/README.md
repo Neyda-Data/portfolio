@@ -23,39 +23,6 @@ This project walks through a full end‑to‑end data engineering workflow using
 - Final project summary
 
 ## SQL Scripts
-- [Full Project Script](sql/full_script.sql)
-- [Annual Revenue View](sql/AnnualRevenue_v.sql)
-- [Course Revenue View](sql/AnnualRevenue_v.sql)
-- [Insert Person Stored Procedure](sql/AnnualRevenue_v.sql)
-- [Student History Stored Procedure](sql/AnnualRevenue_v.sql)
-
-## Annual Revenue View Output
-![Annual Revenue Output](screenshots/AnnualRevenue_v.png)
-
-## Course Revenue View Output
-![Course Revenue Output](screenshots/CourseRevenue_v.png)
-
-## Insert Person Stored Procedure Output 
-![Insert Person Output](screenshots/InsertPerson_p.png)
-
-## Student History Stored Procedure Output
-![Student History Output](screenshots/StudentHistory_p.png)
-
-
-## ERD
-![Latin School ERD](erd/latin_school_ERD.png)
-
-
-
-
-
-
-
-
-
-
-
-## SQL Scripts
 
 ### Full Script
 - [Full Project Script](sql/full_script.sql)
