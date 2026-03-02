@@ -44,3 +44,43 @@ This project walks through a full end‑to‑end data engineering workflow using
 
 ## ERD
 ![Latin School ERD](erd/latin_school_ERD.png)
+
+
+
+
+
+
+
+
+
+
+
+## SQL Scripts
+
+### Full Script
+- [Full Project Script](sql/full_script.sql)
+
+### Views
+- [Annual Revenue View](sql/AnnualRevenue_v.sql)
+- [Course Revenue View](sql/CourseRevenue_v.sql)
+
+### Stored Procedures
+- [Insert Person Stored Procedure](sql/InsertPerson_p.sql)
+- [Student History Stored Procedure](sql/StudentHistory_p.sql)
+
+### Outputs
+#### Annual Revenue View Output
+![Annual Revenue Output](screenshots/AnnualRevenue_v.png)
+
+#### Course Revenue View Output
+![Course Revenue Output](screenshots/CourseRevenue_v.png)
+
+#### Insert Person Stored Procedure Output
+![Insert Person Output](screenshots/InsertPerson_p.png)
+
+#### Student History Stored Procedure Output
+![Student History Output](screenshots/StudentHistory_p.png)
+
+### ERD
+![Latin School ERD](erd/latin_school_ERD.png)
+
