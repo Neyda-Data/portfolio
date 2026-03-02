@@ -13,7 +13,7 @@ This project walks through a full end‑to‑end data engineering workflow using
 ## Folder Structure
 - **sql/** – SQL scripts for table creation, staging, queries, and stored procedures
 - **erd/** – ERD diagram(s)
-- **docs/** – project summary and supporting documents
+- **docs/** – project summary
 - **screenshots/** – output images from views and stored procedures
 
 
